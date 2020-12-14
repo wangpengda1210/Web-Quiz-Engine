@@ -1,0 +1,31 @@
+engine/auth/MyUserDetail.java
+ engine.auth.MyUserDetail
+engine/auth/MyUserDetailsService.java
+ engine.auth.MyUserDetailsService
+engine/elements/Answer.java
+ engine.elements.Answer
+engine/services/CompletionService.java
+ engine.services.CompletionService
+engine/WebQuizEngine.java
+ engine.WebQuizEngine
+engine/auth/UserSecurityConfiguration.java
+ engine.auth.UserSecurityConfiguration
+engine/elements/Quiz.java
+ engine.elements.Quiz
+engine/database/QuizRepository.java
+ engine.database.QuizRepository
+engine/elements/User.java
+ engine.elements.User
+engine/database/CompletionRepository.java
+ engine.database.CompletionRepository
+engine/database/UserRepository.java
+ engine.database.UserRepository
+engine/QuizRestController.java
+ engine.QuizRestController
+ engine.QuizRestController$QuizNotValidException
+engine/services/QuizService.java
+ engine.services.QuizService
+engine/elements/Completion.java
+ engine.elements.Completion
+engine/elements/Feedback.java
+ engine.elements.Feedback

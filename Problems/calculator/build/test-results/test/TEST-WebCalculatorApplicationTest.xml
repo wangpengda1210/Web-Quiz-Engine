@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WebCalculatorApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-11T07:35:56" hostname="LIUTAO2" time="3.666">
+  <properties/>
+  <testcase name="start" classname="WebCalculatorApplicationTest" time="3.666"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.3.1.RELEASE)
+
+2020-12-11 15:35:56.742  INFO 4504 --- [    Test worker] calculator.WebCalculatorApplication      : Starting WebCalculatorApplication on liutao2 with PID 4504 (started by lt in C:\Users\lt\IdeaProjects\Web Quiz Engine\Problems\calculator)
+2020-12-11 15:35:56.745  INFO 4504 --- [    Test worker] calculator.WebCalculatorApplication      : No active profile set, falling back to default profiles: default
+2020-12-11 15:35:58.348  INFO 4504 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8889 (http)
+2020-12-11 15:35:58.360  INFO 4504 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-11 15:35:58.360  INFO 4504 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-12-11 15:35:58.467  INFO 4504 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-11 15:35:58.467  INFO 4504 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1659 ms
+2020-12-11 15:35:58.777  INFO 4504 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-11 15:35:59.099  INFO 4504 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2020-12-11 15:35:59.151  INFO 4504 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8889 (http) with context path ''
+2020-12-11 15:35:59.164  INFO 4504 --- [    Test worker] calculator.WebCalculatorApplication      : Started WebCalculatorApplication in 2.87 seconds (JVM running for 3.867)
+2020-12-11 15:35:59.532  INFO 4504 --- [nio-8889-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-11 15:35:59.533  INFO 4504 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-11 15:35:59.543  INFO 4504 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+?[1;31m
+Start test 2?[0m
+?[1;31m
+Start test 3?[0m
+?[1;31m
+Start test 4?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Web_Quiz_Engine.Problems-Create_a_full_name.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Web_Quiz_Engine.Problems-Initializing_an_array_of_integers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/calculator/Web_Quiz_Engine.Problems-calculator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Web Quiz Engine/task/Web_Quiz_Engine.Web_Quiz_Engine-task.test.iml" />
+    </modules>
+  </component>
+</project>
