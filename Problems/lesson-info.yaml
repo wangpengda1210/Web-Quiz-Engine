@@ -2,3 +2,6 @@ content:
 - calculator
 - Initializing an array of integers
 - Create a full name
+- Remove extra spaces
+- Remove HTML tags
+- Remove comments
